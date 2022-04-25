@@ -1,5 +1,5 @@
 ### Hi there 👋
-Eu sou Jhony, atualmente estou estudando  na <b><i>Desenvolve.me<i><b> para me tornar um desenvolvedor front-end
+Eu sou Jhony, atualmente estou estudando  na <b><i>Desenvolve.me</i></b> para me tornar um desenvolvedor front-end
 <!--
 **jhonyrhian/jhonyrhian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
